@@ -14,3 +14,13 @@
 | [![TOHID KHAN](https://github.com/Tohidkhan6332.png?size=100)](https://github.com/Tohidkhan6322) |
 | --- |
 | [Tohid Khan](https://github.com/Tohidkhn6332) |
+
+
+
+### <h4 align="">1. HEROKU</h4>
+<p style="text-align: center; font-size: 1.2em;">
+
+
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://dashboard.heroku.com/new?template=https://github.com/caseyweb/Tohid-pair-code)
+<a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
+
