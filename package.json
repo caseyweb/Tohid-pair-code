@@ -13,7 +13,7 @@
   "author": "Tohid Tech",
   "license": "GPL-3.0 license",
   "dependencies": {
-    "@whiskeysockets/baileys": "^6.6.7",
+    "@whiskeysockets/baileys": "github:seiren-primrose/PL-Baileys",
     "qrcode": "^1.5.3",
     "awesome-phonenumber": "^2.64.0",
     "megajs": "^1.1.0",
